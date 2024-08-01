@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>6</zoom_level>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>1104</x>
+      <y>66</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Social Moment*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>1104</x>
+      <y>162</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Social Commitment*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>1092</x>
+      <y>294</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Promise*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>774</x>
+      <y>384</y>
+      <w>120</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Social Claim*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>768</x>
+      <y>192</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Expectation*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>1140</x>
+      <y>192</y>
+      <w>30</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;102</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>1140</x>
+      <y>96</y>
+      <w>30</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;66</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>816</x>
+      <y>78</y>
+      <w>300</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>288;18;18;18;18;114</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>810</x>
+      <y>222</y>
+      <w>30</w>
+      <h>174</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;162</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>408</x>
+      <y>36</y>
+      <w>114</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;66;102;66</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>900</x>
+      <y>294</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Evidence*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>1002</x>
+      <y>288</y>
+      <w>102</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1= 
+generates</panel_attributes>
+    <additional_attributes>18;30;90;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>822</x>
+      <y>294</y>
+      <w>90</w>
+      <h>102</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=  
+supports</panel_attributes>
+    <additional_attributes>36;90;36;30;78;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>846</x>
+      <y>210</y>
+      <w>288</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=  
+creates</panel_attributes>
+    <additional_attributes>18;30;18;30;276;30;276;84</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>510</x>
+      <y>156</y>
+      <w>120</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Committer*
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>1296</x>
+      <y>162</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Communication*
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>1206</x>
+      <y>168</y>
+      <w>102</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1= 
+
+</panel_attributes>
+    <additional_attributes>18;18;90;18</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>510</x>
+      <y>264</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Arbitrator*
+
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>510</x>
+      <y>78</y>
+      <w>120</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Beneficiary*
+
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>372</x>
+      <y>0</y>
+      <w>120</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Agent*
+
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>408</x>
+      <y>36</y>
+      <w>114</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;138;102;138</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>408</x>
+      <y>36</y>
+      <w>114</w>
+      <h>264</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-
+</panel_attributes>
+    <additional_attributes>18;18;18;252;102;252</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>612</x>
+      <y>258</y>
+      <w>222</w>
+      <h>138</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=  
+adjudicates</panel_attributes>
+    <additional_attributes>18;30;186;30;186;126</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>612</x>
+      <y>84</y>
+      <w>168</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=  
+holds
+</panel_attributes>
+    <additional_attributes>18;18;96;18;96;132;156;132</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>612</x>
+      <y>150</y>
+      <w>504</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=  
+undertakes</panel_attributes>
+    <additional_attributes>18;30;492;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Class</type>
+    <coordinates>
+      <x>1110</x>
+      <y>408</y>
+      <w>96</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>bg=light_gray
+
+*Proposition*
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>1122</x>
+      <y>324</y>
+      <w>54</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes>lt=-
+fg=gray
+entails</panel_attributes>
+    <additional_attributes>30;18;30;84</additional_attributes>
+  </element>
+</diagram>
